@@ -1,6 +1,7 @@
 import numpy
 import random
 from scipy import stats
+import csv
 
 no_of_traces = 100
 
@@ -91,6 +92,9 @@ print("\n")
 # print(power_model_matrix)
 
 ##############################################################################################
+
+csvfile = list(csv.reader(open("ownwaveform.csv")))
+print(csvfile)
 
 print("testing area\n")
 test_colone = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
