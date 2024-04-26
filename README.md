@@ -6,7 +6,7 @@
 <p> anotherownwaveform.csv is a csv file containing the power traces and plaintext/ciphertext pairs we used for CPA. </p>
 
 ## scaproj.pdf
-<p> scaproj.pdf contains the code used in pdf format, with the plots already generated. </p>
+<p> scaproj.pdf contains the code used in pdf format, with the plots already generated, saving the need to run scaproj.ipynb again. </p>
 
 ## CZ4055_SCA_Project_Report.docx
 <p> CZ4055_SCA_Project_Report.docx contains our project report. </p>
